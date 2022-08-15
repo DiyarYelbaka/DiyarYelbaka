@@ -25,6 +25,10 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /></a><a href="https://firebase.google.com/docs" target="_blank"><img
+            src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png"
+            alt="css3" width="40" height="40" /></a><a href="https://react-hook-form.com" target="_blank"><img
+            src="https://marmelab.com/react-admin/assets/techs/react-hook-form.jpeg"
             alt="css3" width="40" height="40" /></a>
             <h4>Learning:</h4>
             <br/>
