@@ -10,10 +10,10 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/diyar-yelbaka-019230232/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a>  
+<a href="https://www.linkedin.com/in/diyar-yelbaka-019230232/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a><a href="https://www.instagram.com/diyaryelbakav2.0/" target="blank"><img align="center" src="https://www.logovector.org/wp-content/uploads/2018/11/instagram-300x300.png" alt="thefoxsnow" height="50" width="50" /></a>  
 &nbsp;&nbsp;&nbsp;
 <br>
-<a href="https://diyaryelbaka.online">diyaryelbaka.com</a>
+<a href="https://diyaryelbaka.online">www.diyaryelbaka.com</a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -28,7 +28,7 @@
             alt="css3" width="40" height="40" /></a>
             <h4>Learning:</h4>
             <br/>
-            </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"         alt="vuejs" width="40" height="40"/> </a>
+             <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"       alt="vuejs" width="40" height="40"/> </a><a href="https://docs.amplify.aws/start/q/integration/react-native/" target="_blank"> <img src="https://dfdmyvckxgqn5.cloudfront.net/images/aws-amplify-466-0881e0b2c1678df1e9ffbe13fd3e9638.png"  alt="vuejs" width="40" height="40"/> </a>
          
 </p>
   
@@ -40,7 +40,7 @@
 <details>
   
   <summary>Click to Show Stats</summary>
-<div align="center"><a href="https://discord.com/users/204969203055329281"><img src="https://metrics.lecoq.io/foxsnow38?languages=1&gists=1&followup=1"/></a></div>
+<div align="center"><a href="https://discord.com/users/204969203055329281"><img src="https://metrics.lecoq.io/diyaryelbaka"/></a></div>
   
 </details>
   </div>
