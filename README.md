@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diyar </h1>
 <h3 align="center">Jr. React Native Devoloper</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=foxsnow38&label=Profile%20views&color=80ceff&style=flat-square" alt="d3r1n" /> 
-  <a href="https://wakatime.com/@80c1265b-b9f3-4878-8403-3f1ba54e1fd1"><img src="https://wakatime.com/badge/user/5f971379-ccd6-465f-a0e1-6dfd0ade5512.svg?style=flat-square" alt="Total time coded since Nov 5 2020" /></a>
-</p>
 <div align="center">
 
 
