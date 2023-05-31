@@ -26,13 +26,7 @@
             alt="css3" width="40" height="40" /></a><a href="https://react-hook-form.com" target="_blank"><img
             src="https://marmelab.com/react-admin/assets/techs/react-hook-form.jpeg"
             alt="css3" width="40" height="40" /></a>
-            <h4>Learning:</h4>
-            <br/>
-             <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"       alt="vuejs" width="40" height="40"/> </a><a href="https://docs.amplify.aws/start/q/integration/react-native/" target="_blank"> <img src="https://dfdmyvckxgqn5.cloudfront.net/images/aws-amplify-466-0881e0b2c1678df1e9ffbe13fd3e9638.png"  alt="vuejs" width="40" height="40"/> </a>
-         
-</p>
-  
-<br/>
+          
 
 <h2 align="center">Github Stats</h2>
 
