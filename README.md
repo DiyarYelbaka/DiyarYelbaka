@@ -6,7 +6,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/diyar-yelbaka-019230232/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a><a href="https://www.instagram.com/diyaryelbakav2.0/" target="blank"><img align="center" src="https://www.logovector.org/wp-content/uploads/2018/11/instagram-300x300.png" alt="thefoxsnow" height="50" width="50" /></a>  
+<a href="https://www.linkedin.com/in/diyar-yelbaka-019230232/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a><a href="https://www.instagram.com/diyaryelbakav3.2/" target="blank"><img align="center" src="https://www.logovector.org/wp-content/uploads/2018/11/instagram-300x300.png" alt="thefoxsnow" height="50" width="50" /></a>  
 &nbsp;&nbsp;&nbsp;
 <br>
 <a href="https://diyaryelbaka.com">www.diyaryelbaka.com</a>
